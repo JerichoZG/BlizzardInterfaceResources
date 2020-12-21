@@ -708,6 +708,7 @@ local CVars = {
 		["MSAAQuality"] = {"0", false, false, "Multisampling AA quality"},
 		["multiBarRightVerticalLayout"] = {"0", false, true, "Whether to force the right action bars to always align horizontally instead of vertically"},
 		["NamePlateClassificationScale"] = {"1.0", false, true, "Applied to the classification icon for nameplates."},
+		-- ["姓名板职业图标缩放"] = {"1.0", false, true, "用于在姓名板上显示的职业图标"}
 		["nameplateClassResourceTopInset"] = {".03", false, true, "The inset from the top (in screen percent) that nameplates are clamped to when class resources are being displayed on them."},
 		["nameplateGlobalScale"] = {"1.0", false, true, "Applies global scaling to non-self nameplates, this is applied AFTER selected, min, and max scale."},
 		["NamePlateHorizontalScale"] = {"1.0", false, true, "Applied to horizontal size of all nameplates."},
